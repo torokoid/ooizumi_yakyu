@@ -40,7 +40,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/ohizumi_soccer/20190407_006.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/ooizumi_yakyu/20190730_001.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -81,9 +81,9 @@ background-color: rgba(0, 225, 0, 0.8);
 
 
 <a href="20190730_001.jpg" data-lightbox="abc"><img src="20190730_001.jpg" alt="サンプル画像" width="1200" /></a>
-<a href="20190730_002.png" data-lightbox="abc"><img src="20190730_002.png" alt="サンプル画像" width="900" /></a>
-<a href="20190730_003.png" data-lightbox="abc"><img src="20190730_003.png" alt="サンプル画像" width="900" /></a>
-<a href="20190730_004.png" data-lightbox="abc"><img src="20190730_004.png" alt="サンプル画像" width="900" /></a>
+<a href="20190730_002.png" data-lightbox="abc"><img src="20190730_002.png" alt="サンプル画像" width="1200" /></a>
+<a href="20190730_003.png" data-lightbox="abc"><img src="20190730_003.png" alt="サンプル画像" width="1200" /></a>
+<a href="20190730_004.png" data-lightbox="abc"><img src="20190730_004.png" alt="サンプル画像" width="1200" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">
